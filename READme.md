@@ -11,3 +11,5 @@ This is a simple quiz application made with vanilla JavaScript for the WTF Decem
 - The 'Restart Quiz' button at the end will reload the page
 - The total score and the option to restart the quiz will be displayed when the countdown timer runs out regardless of the number of questions answered
 - A 'Time Up!' message is displayed in the timer when the countdown timer runs out.
+
+View the site [here.](https://wtfquizappbyaguenu.netlify.app/)
